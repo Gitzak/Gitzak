@@ -38,7 +38,7 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ![Gitzak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-## Contact Me
+## Have a sweet project in mind or just want to say hi? Feel free to send me a message!
 
 - [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
 - [Twitter](https://twitter.com/ZakariaBelrhali)
