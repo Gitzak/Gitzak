@@ -36,6 +36,8 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=donut-vertical)
+
 ## Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
