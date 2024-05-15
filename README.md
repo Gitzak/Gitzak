@@ -32,9 +32,7 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ## GitHub Stats
 
-![GitZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitzak&&rank_icon=percentile&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&theme=merko)
+![Gitzak's Stats](https://github-readme-stats.vercel.app/api?username=Gitzak&theme=merko&show_icons=true&rank_icon=percentile&hide_border=true&count_private=false)
 
 
 ## Contact Me
