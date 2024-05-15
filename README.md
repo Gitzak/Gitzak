@@ -10,7 +10,7 @@ In my work, I excel in both front-end and back-end development, making me a valu
 ### My Toolbox & Things I Can Do
 #### The skills, tools and technologies I use to bring your products to life
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
