@@ -1,6 +1,6 @@
 # Hi there, I'm John Doe! 👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/20566979?v=4)
+<img src="https://avatars.githubusercontent.com/u/20566979?v=4" alt="Profile Picture" width="200" height="200">
 
 My name is Zakaria Belrhali. I am a self-employed entrepreneur, consultant, web developer, and designer. I am proactive and enjoy taking initiative and facing challenges. I thrive in team environments and have a strong sense of responsibility.
 
