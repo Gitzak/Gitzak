@@ -30,3 +30,14 @@ In my work, I excel in both front-end and back-end development, making me a valu
   <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="40">
 </div>
 
+## GitHub Stats
+
+![GitZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
+- [Twitter](https://twitter.com/ZakariaBelrhali)
+
