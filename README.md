@@ -3,9 +3,12 @@
 
 I am a web developer and designer, based in Rabat, Morocco, passionate about creating digital experiences. My skills in coding and design bring ideas to life on screens. I view the web as my canvas, where I merge design and functionality to create seamless and impactful websites. In each project, I aim to push limits and find beauty in simplicity. Let's work together to make your digital visions engaging and real.
 
-## My Skills
+## Skills & Tools
 
 In my work, I excel in both front-end and back-end development, making me a valuable full-stack developer. I also have a strong design sensibility, ensuring visually appealing and user-friendly interfaces. My agile approach allows me to adapt swiftly to changing project requirements, ensuring efficient and client-centric outcomes.
+
+### My Toolbox & Things I Can Do
+#### The skills, tools and technologies I use to bring your products to life
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
