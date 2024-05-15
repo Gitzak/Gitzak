@@ -1,4 +1,5 @@
-# Hi there, 👋 I'm Zakaria Belrhali <br>##Web developer, Designer Freelance & Coffee addict ☕ 
+# Hi there, 👋 I'm Zakaria Belrhali
+## Web developer, Designer Freelance & Coffee addict ☕ 
 
 <img src="https://avatars.githubusercontent.com/u/20566979?v=4" alt="Profile Picture" width="200" height="200">
 
