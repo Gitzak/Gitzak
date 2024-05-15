@@ -34,9 +34,10 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ![GitZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitzak&&rank_icon=percentile&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=donut-vertical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&theme=merko" alt="Top Langs Compact" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=donut-vertical&theme=merko" alt="Top Langs Donut Vertical" height="200">
+</div>
 
 ## Contact Me
 
