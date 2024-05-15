@@ -32,7 +32,7 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ## GitHub Stats
 
-![GitZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitzak&show_icons=true&theme=merko)
+![GitZak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitzak&&rank_icon=percentile&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&theme=merko)
 
