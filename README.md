@@ -1,9 +1,7 @@
 # Hi there, 👋 I'm Zakaria Belrhali
 ## Web developer, Designer Freelance & Coffee addict ☕ 
 
-<img src="https://avatars.githubusercontent.com/u/20566979?v=4" alt="Profile Picture" width="200" height="200">
-
-My name is Zakaria Belrhali. I am a self-employed entrepreneur, consultant, web developer, and designer. I am proactive and enjoy taking initiative and facing challenges. I thrive in team environments and have a strong sense of responsibility.
+I am a web developer and designer, based in Rabat, Morocco, passionate about creating digital experiences. My skills in coding and design bring ideas to life on screens. I view the web as my canvas, where I merge design and functionality to create seamless and impactful websites. In each project, I aim to push limits and find beauty in simplicity. Let's work together to make your digital visions engaging and real.
 
 ## My Skills
 
