@@ -1,6 +1,6 @@
 # Hi there, I'm John Doe! 👋
 
-![Profile Picture]([https://your-profile-picture-url.com](https://media.licdn.com/dms/image/D4E03AQGquphPUp4RkQ/profile-displayphoto-shrink_800_800/0/1695890327889?e=1721260800&v=beta&t=2B7Wc8wg0UTaVgx8_jWZnwCqJTF6gHbLUJu_b3tpmG4))
+![Profile Picture](https://your-profile-picture-url.com](https://media.licdn.com/dms/image/D4E03AQGquphPUp4RkQ/profile-displayphoto-shrink_800_800/0/1695890327889?e=1721260800&v=beta&t=2B7Wc8wg0UTaVgx8_jWZnwCqJTF6gHbLUJu_b3tpmG4)
 
 My name is Zakaria Belrhali. I am a self-employed entrepreneur, consultant, web developer, and designer. I am proactive and enjoy taking initiative and facing challenges. I thrive in team environments and have a strong sense of responsibility.
 
