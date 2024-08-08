@@ -42,6 +42,6 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ## Have a sweet project in mind or just want to say hi? Feel free to send me a message!
 
-- [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/){:target="_blank" rel="noopener"}
-- [Twitter](https://twitter.com/ZakariaBelrhali){:target="_blank" rel="noopener"}
+- [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
+- [Twitter](https://twitter.com/ZakariaBelrhali)
 
