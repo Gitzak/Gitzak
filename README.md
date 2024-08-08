@@ -3,7 +3,7 @@
 
 I am a web developer and designer, based in Rabat, Morocco, passionate about creating digital experiences. My skills in coding and design bring ideas to life on screens. I view the web as my canvas, where I merge design and functionality to create seamless and impactful websites. In each project, I aim to push limits and find beauty in simplicity. Let's work together to make your digital visions engaging and real.
 
-My Portfolio : [PORTFOLIO GITZAK](https://zakariabelrhali.netlify.app/)
+<a href="https://zakariabelrhali.netlify.app/" target="_blank">My Portfolio : PORTFOLIO GITZAK</a>
 
 ## Skills & Tools
 
@@ -42,6 +42,8 @@ In my work, I excel in both front-end and back-end development, making me a valu
 
 ## Have a sweet project in mind or just want to say hi? Feel free to send me a message!
 
-- [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
-- [Twitter](https://twitter.com/ZakariaBelrhali)
+<ul>
+  <li><a href="https://www.linkedin.com/in/zakaria-belrhali/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://twitter.com/ZakariaBelrhali" target="_blank">Twitter</a></li>
+</ul>
 
