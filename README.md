@@ -58,8 +58,8 @@ I'm a full stack developer and designer who connects product thinking, clean int
 
 <div align="center">
 
-<img height="170" alt="GitHub stats for Gitzak" src="https://github-readme-stats.vercel.app/api?username=Gitzak&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BEF264&icon_color=BEF264&text_color=C9D1D9&hide=issues&include_all_commits=false" />
-<img height="170" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&hide_border=true&bg_color=0D1117&title_color=BEF264&text_color=C9D1D9&langs_count=6" />
+<img width="49%" alt="GitHub stats for Gitzak" src="https://github-readme-stats.vercel.app/api?username=Gitzak&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BEF264&icon_color=BEF264&text_color=C9D1D9&hide=issues&include_all_commits=false" />
+<img width="49%" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&hide_border=true&bg_color=0D1117&title_color=BEF264&text_color=C9D1D9&langs_count=6&card_width=467" />
 
 <a href="https://github.com/Gitzak?tab=overview"><img width="100%" alt="Gitzak contribution calendar — daily activity in lime" src="./assets/contributions.svg" /></a>
 
