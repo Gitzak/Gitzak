@@ -13,7 +13,7 @@ urls = [
     "https://github-readme-stats.vercel.app/api?" + common + "&show_icons=true&hide_rank=true",
     "https://github-readme-stats.vercel.app/api/top-langs/?" + common + "&layout=compact&langs_count=8",
 ]
-root = ET.Element(tag("svg"), {"width": "960", "height": "252", "viewBox": "0 0 960 252", "role": "img", "aria-labelledby": "cards-title"})
+root = ET.Element(tag("svg"), {"width": "960", "height": "484", "viewBox": "0 0 960 484", "role": "img", "aria-labelledby": "cards-title"})
 ET.SubElement(root, tag("title"), {"id": "cards-title"}).text = "GitHub stats and most used languages — matching cards"
 for index, url in enumerate(urls):
     request = Request(url, headers={"User-Agent": "Gitzak-profile-cards"})
@@ -21,13 +21,13 @@ for index, url in enumerate(urls):
         source = ET.fromstring(response.read())
     if "svg" not in source.tag or "Something went wrong" in "".join(source.itertext()):
         raise RuntimeError("Stats provider returned an invalid card")
-    x = index * 486
-    # Identical cards: 474 x 252 with a 12px gutter.
-    ET.SubElement(root, tag("rect"), {"x": str(x + 0.75), "y": ".75", "width": "472.5", "height": "250.5", "rx": "12", "fill": "#0D1117", "stroke": "#303B26", "stroke-width": "1.5"})
+    x = index * 484
+    # Identical cards: 476 x 252 with an 8px gutter in both directions.
+    ET.SubElement(root, tag("rect"), {"x": str(x + 0.75), "y": ".75", "width": "474.5", "height": "250.5", "rx": "12", "fill": "#0D1117", "stroke": "#303B26", "stroke-width": "1.5"})
     # Preserve original type size; both source viewports use the same coordinates.
     source.set("x", str(x + 4))
     source.set("y", "10")
-    source.set("width", "466")
+    source.set("width", "468")
     source.set("height", "232")
     source.set("viewBox", "0 0 467 220")
     source.set("preserveAspectRatio", "xMinYMin meet")
@@ -39,4 +39,12 @@ for index, url in enumerate(urls):
             if "url(#" in value:
                 element.set(key, value.replace("url(#", f"url(#card{index}-"))
     root.append(source)
+# Put the calendar on the same canvas to guarantee an identical vertical gap.
+calendar = ET.fromstring(Path("assets/contributions.svg").read_text(encoding="utf-8"))
+calendar.set("x", "0")
+calendar.set("y", "260")
+calendar.set("width", "960")
+calendar.set("height", "224")
+calendar.set("viewBox", "0 0 900 210")
+root.append(calendar)
 Path("assets/github-cards.svg").write_text(ET.tostring(root, encoding="unicode"), encoding="utf-8")
