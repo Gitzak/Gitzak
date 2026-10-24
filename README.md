@@ -58,9 +58,7 @@ I'm a full stack developer and designer who connects product thinking, clean int
 
 <div align="center">
 
-<img width="100%" alt="GitHub stats and most used languages — equal-size aligned cards" src="./assets/github-cards.svg" />
-
-<a href="https://github.com/Gitzak?tab=overview"><img width="100%" alt="Gitzak contribution calendar — daily activity in lime" src="./assets/contributions.svg" /></a>
+<img width="100%" alt="GitHub stats, languages and contribution calendar with uniform spacing" src="./assets/github-cards.svg" />
 
 <sub>Contribution calendar updates daily from GitHub. Language usage reflects repositories, not proficiency.</sub>
 
