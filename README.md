@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Zakaria Belrhali — Senior Full Stack Developer and Designer" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=ZAKARIA%20BELRHALI&fontSize=38&fontColor=BEF264&desc=Senior%20Full%20Stack%20Developer%20%26%20Designer&descSize=18&descAlignY=72&fontAlignY=40" />
+<img width="100%" alt="Zakaria Belrhali — Senior Full Stack Developer and Designer" src="./assets/profile-banner.svg" />
 
 **Web applications · Mobile experiences · AI integrations**
 
