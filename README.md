@@ -1,47 +1,80 @@
-# Hi there, 👋 I'm Zakaria Belrhali
-## Web developer, Designer Freelance & Coffee addict ☕ 
+<div align="center">
 
-I am a web developer and designer, based in Rabat, Morocco, passionate about creating digital experiences. My skills in coding and design bring ideas to life on screens. I view the web as my canvas, where I merge design and functionality to create seamless and impactful websites. In each project, I aim to push limits and find beauty in simplicity. Let's work together to make your digital visions engaging and real.
+<img width="100%" alt="Zakaria Belrhali — Senior Full Stack Developer and Designer" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=ZAKARIA%20BELRHALI&fontSize=38&fontColor=BEF264&desc=Senior%20Full%20Stack%20Developer%20%26%20Designer&descSize=18&descAlignY=72&fontAlignY=40" />
 
-My Portfolio : <a href="https://zakariabelrhali.netlify.app/" target="_blank">PORTFOLIO GITZAK</a>
+**Web applications · Mobile experiences · AI integrations**
 
-## Skills & Tools
+Based in Rabat, Morocco · 8+ years building digital products
 
-In my work, I excel in both front-end and back-end development, making me a valuable full-stack developer. I also have a strong design sensibility, ensuring visually appealing and user-friendly interfaces. My agile approach allows me to adapt swiftly to changing project requirements, ensuring efficient and client-centric outcomes.
+[![Portfolio](https://img.shields.io/badge/Portfolio-BEF264?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://zakariabelrhali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=BEF264)](https://www.linkedin.com/in/zakaria-belrhali/)
 
-### My Toolbox & Things I Can Do
-#### The skills, tools and technologies I use to bring your products to life
-
-<div align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" height="40">
 </div>
 
-## GitHub Stats
+---
 
-![Gitzak's Stats](https://github-readme-stats.vercel.app/api?username=Gitzak&theme=merko&show_icons=true&rank_icon=percentile&hide_border=true&count_private=false)
+### About me
 
-![Gitzak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gitzak&theme=merko&hide_border=true)
+I'm a full stack developer and designer who connects product thinking, clean interfaces, and maintainable code. My core stack is **Laravel, React, Next.js, and TypeScript**, with a growing focus on integrating AI into useful applications.
 
-![Gitzak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&theme=merko&show_icons=true&hide_border=true&layout=compact)
+- **At work:** Senior Full Stack Developer at **Dial Technologies**, contributing to backend development, technical decisions, and application improvements.
+- **Product experience:** Built **CreaSouk**, a multi-vendor e-commerce SaaS platform with catalog, order, customer, and online payment features.
+- **Education:** Computer Engineering & Artificial Intelligence (G2IA), **Université Ibn Tofail · 2025–2026**.
+- **Exploring:** AI agents, RAG, MCP, and practical automation — alongside hands-on Arduino projects.
+- **Design mindset:** Thoughtful UX, responsive interfaces, and attention to detail.
 
-## Have a sweet project in mind or just want to say hi? Feel free to send me a message!
+### Stack & tools
 
-- [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
-- [Twitter](https://twitter.com/ZakariaBelrhali)
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React · Next.js · Vue.js 3 · TypeScript · JavaScript · Inertia.js |
+| **Backend & APIs** | PHP · Laravel · CodeIgniter · Node.js · Express.js · REST APIs |
+| **Mobile** | React Native · Expo · Flutter · NativePHP |
+| **Data & storage** | PostgreSQL · MySQL · MongoDB · Redis · Firebase · SQL Server |
+| **AI integrations** | OpenAI API · Anthropic Claude API · AI SDK · AI agents · RAG · MCP |
+| **Data & analytics** | Python · Pandas · NumPy · Power BI |
+| **Delivery & design** | Git · Docker · Figma · Photoshop · Illustrator |
+| **CMS & commerce** | WordPress · WooCommerce · PrestaShop |
 
+<p>
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=BEF264" />
+<img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=BEF264" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=BEF264" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=BEF264" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=BEF264" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=BEF264" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=BEF264" />
+</p>
+
+### What I build
+
+**Web & SaaS** — Business applications, dashboards, e-commerce platforms, and APIs.
+
+**Mobile** — Cross-platform experiences with React Native and Expo.
+
+**AI & data** — AI-powered features, workflow automation, and data analysis.
+
+### GitHub activity
+
+<div align="center">
+
+<img height="170" alt="GitHub stats for Gitzak" src="https://github-readme-stats.vercel.app/api?username=Gitzak&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BEF264&icon_color=BEF264&text_color=C9D1D9&hide=issues&include_all_commits=false" />
+<img height="170" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&hide_border=true&bg_color=0D1117&title_color=BEF264&text_color=C9D1D9&langs_count=6" />
+
+<img width="95%" alt="Public contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gitzak&bg_color=0D1117&color=C9D1D9&line=BEF264&point=BEF264&area=true&area_color=BEF264&hide_border=true" />
+
+<sub>Cards reflect public GitHub activity. Language usage reflects repositories, not proficiency. Third-party cards may occasionally be unavailable.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+**Have a product in mind? Let's connect.**
+
+[Portfolio](https://zakariabelrhali.com) · [LinkedIn](https://www.linkedin.com/in/zakaria-belrhali/)
+
+<sub>Code with purpose. Design with care.</sub>
+
+</div>
