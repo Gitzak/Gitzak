@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - scripts/update_contributions.py
+      - scripts/update_cards.py
       - .github/workflows/contributions.yml
   schedule:
     - cron: '23 6 * * *'
@@ -22,9 +23,11 @@ jobs:
           python-version: '3.12'
       - name: Generate calendar
         run: python scripts/update_contributions.py
+      - name: Generate matching stats cards
+        run: python scripts/update_cards.py
       - name: Save calendar
         run: |
-          git add assets/contributions.svg
+          git add assets/*.svg
           if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
