@@ -7,7 +7,7 @@
 Based in Rabat, Morocco · 8+ years building digital products
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-BEF264?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://zakariabelrhali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=BEF264)](https://www.linkedin.com/in/zakaria-belrhali/)
+[![LinkedIn](./assets/linkedin-button.svg)](https://www.linkedin.com/in/zakaria-belrhali/)
 
 </div>
 
