@@ -61,9 +61,9 @@ I'm a full stack developer and designer who connects product thinking, clean int
 <img height="170" alt="GitHub stats for Gitzak" src="https://github-readme-stats.vercel.app/api?username=Gitzak&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BEF264&icon_color=BEF264&text_color=C9D1D9&hide=issues&include_all_commits=false" />
 <img height="170" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitzak&layout=compact&hide_border=true&bg_color=0D1117&title_color=BEF264&text_color=C9D1D9&langs_count=6" />
 
-<img width="95%" alt="Public contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gitzak&bg_color=0D1117&color=C9D1D9&line=BEF264&point=BEF264&area=true&area_color=BEF264&hide_border=true" />
+<a href="https://github.com/Gitzak?tab=overview"><img width="100%" alt="Gitzak contribution calendar — daily activity in lime" src="./assets/contributions.svg" /></a>
 
-<sub>Cards reflect public GitHub activity. Language usage reflects repositories, not proficiency. Third-party cards may occasionally be unavailable.</sub>
+<sub>Contribution calendar updates daily from GitHub. Language usage reflects repositories, not proficiency.</sub>
 
 </div>
 
